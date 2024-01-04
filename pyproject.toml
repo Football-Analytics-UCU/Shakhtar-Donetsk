@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "shakhtar-donetsk"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+packages = [{include = "shakhtar_donetsk"}]
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+jupyterlab = "^4.0.10"
+ipykernel = "^6.28.0"
+soccerdata = "^1.5.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,5 +1,7 @@
 # Shakhtar-Donetsk
 
+# Development
+
 ### Install dependencies
 ```bash
 poetry install
@@ -14,3 +16,10 @@ poetry add dependency
 ```bash
 poetry run jupyter lab
 ```
+
+# Packages
+
+### Soccerdata
+[Github](https://github.com/probberechts/soccerdata)
+[Docs](https://soccerdata.readthedocs.io/en/latest/index.html)
+[PyPi](https://pypi.org/project/soccerdata/)

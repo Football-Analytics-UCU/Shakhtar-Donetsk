@@ -1,5 +1,5 @@
 # Task
-- collect data about selected match
+- collect data about the selected match
 - analyze the match using given concepts, methods, and tools
 - present the result in a report (dashboard, PDF file, website, TG-channel)
 
@@ -8,9 +8,9 @@
 
 # 1. Outcomes
 ### Ideas for report:
-- scoring rates at tournament
+- scoring rates at the tournament
 - predicted outcome for your match:
-  * based on rating before tournament
+  * based on rating before the tournament
   * goal scoring (and conceding) rates for teams
   * pre-tournament betting odds
 - hardness of a team's schedule
@@ -51,13 +51,13 @@
 - evaluate Wyscout xG, postShotXg
 - compare different xG models (StatsBomb, Wyscout, yours, others)
 
-# 5. Game cycle
+# 5. Game Cycle
 ### Ideas for report:
 - possession statistics from Wyscout and FIFA data
 - develop your own model for match states
 - determine transition probabilities
 - determine expected threat (xT) from (variants of) utility potential function
-- buuld ML model for action values
+- build ML model for action values
 - rank players by action values
 - validate action values with outcomes
 - classify players and teams by action profiles

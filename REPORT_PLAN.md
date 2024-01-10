@@ -17,7 +17,7 @@
 - simulation vs combinatorics of tournament schedule
 - probability of a team winning the tournament
 
-# 2. Running
+# 2. Running (Nazar)
 ### Ideas for report:
 - estimate velocity, acceleration, curvature
 - create heatmaps and trajectories
@@ -29,7 +29,7 @@
 - create pitch control maps
 - space control and creation through movement
 
-# 3. Passing
+# 3. Passing (Ivan)
 ### Ideas for report:
 - reproduce FIFA passing statistics
 - passing statistics for various types of passes
@@ -41,7 +41,7 @@
 - passes that do not slow down the receiver
 - passing motifs in time
 
-# 4. Shooting
+# 4. Shooting (Oleh)
 ### Ideas for report:
 - generate xG race charts
 - what was the probability of the actual outcome

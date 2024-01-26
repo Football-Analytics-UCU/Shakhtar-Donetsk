@@ -11,6 +11,7 @@ python = ">=3.11,<3.13"
 jupyterlab = "^4.0.10"
 ipykernel = "^6.28.0"
 soccerdata = "^1.5.3"
+mplsoccer = "^1.2.2"
 
 
 [build-system]

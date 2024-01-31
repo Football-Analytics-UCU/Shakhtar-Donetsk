@@ -33,3 +33,4 @@ poetry run jupyter lab
   * [xG Flow chart PNG](https://github.com/Football-Analytics-UCU/Shakhtar-Donetsk/blob/main/report/xg_flow_chart.png)
 - Ivan
     * [Passing notebook](https://github.com/Football-Analytics-UCU/Shakhtar-Donetsk/blob/main/notebooks/passing_data.ipynb)
+    * [Passing visualization notebook](https://github.com/Football-Analytics-UCU/Shakhtar-Donetsk/blob/main/notebooks/passing_data_visualization.ipynb)
